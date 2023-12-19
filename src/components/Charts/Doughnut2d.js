@@ -21,7 +21,7 @@ const ChartComponent = ({ data }) => {
         caption: "Stars Per Language",
         decimal: 0,
         doughnutRadius: '45%',
-        paletteColors: ['#da4a91', '#5d55fa', '#f0b429', '#2baeba'],
+        paletteColors: ['#da4a91', '#5d55fa', '#f0b429', '#2baeba', '#FF6C22', '#435585'],
         showPercentValues: 0,
         theme: 'candy'
       },

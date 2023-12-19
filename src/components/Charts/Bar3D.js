@@ -29,7 +29,7 @@ const ChartComponent = ({ data }) => {
         xAxisName: "Repos",
         xAxisNameFontSize: "16px",
         yAxisNameFontSize: "16px",
-        paletteColors: ['#da4a91', '#5d55fa', '#f0b429', '#2baeba']
+        paletteColors: ['#da4a91', '#5d55fa', '#f0b429', '#2baeba', '#FF6C22', '#435585']
       },
       // Chart Data
       data,
